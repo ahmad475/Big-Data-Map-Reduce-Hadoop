@@ -1,0 +1,26 @@
+NAME: Ahmad Baig
+STUDENT NUMBER: 215180870
+
+
+INSTRUCTIONS:
+
+Place Freq folder into docker
+PLace gutenberg book folder into HDFS
+run job.sh 
+examine Out in HDFS for results.
+
+
+
+ISSUES:
+
+I had many issues at my first attempt in docker and Hadoop
+in docker. I did however switch computers that I was using 
+later on and managed to get it to work. But the issues
+I was having seemed to be related to "ipc.clent" errors 
+where it would time out. not even the built in map reduce
+would work. I did loose a lot of time by not being able to 
+work on my previous older computer. I also had some issues 
+with python were certain methods wouldn't work. When I switched
+computers I increased RAM that docker gave my containers perhaps
+that helped a little bit I was however able to obtain the 
+required output in the end.
